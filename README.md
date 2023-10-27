@@ -9,8 +9,7 @@ My name is Luiz Filipe
 - 🎓 Software Engineering Student
 - 💻 passionate about new challenges 
 - 🌐 Web development
-- <a>Instagram</a>
--->
+  
 <html>
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAGE">
