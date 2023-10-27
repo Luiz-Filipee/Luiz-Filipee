@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-!--
-**Luiz-Filipee/Luiz-Filipee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+My name is Luiz Filipe
+
+( Javascript | HTML | CSS | Java | Spring Boot )
 
 - 👨‍💻 Software Enginner
 - 🎓 Software Engineering Student
