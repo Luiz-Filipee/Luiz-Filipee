@@ -3,7 +3,7 @@
 
 My name is Luiz Filipe
 
-( Javascript | HTML | CSS | Java | Spring Boot )
+( TypeScript | HTML | CSS | Java | Spring Boot | Angular )
 
 - 👨‍💻 Software Enginner
 - 🎓 Software Engineering Student
