@@ -3,12 +3,12 @@
 
 My name is Luiz Filipe
 
-( HTML | CSS | Java | Kotlin | Spring Boot | Angular | Android )
+( Java | Kotlin | Android | Android Developer)
 
 - 👨‍💻 Software Enginner
 - 🎓 Software Engineering Student
 - 💻 passionate about new challenges 
-- 🌐 Web/Mobile development
+- 🌐 Mobile development
   
 <html>
 <picture>
