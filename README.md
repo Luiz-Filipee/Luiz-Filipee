@@ -10,7 +10,7 @@ My name is Luiz Filipe
 - 👨‍💻 Software Enginner
 - 🎓 Software Engineering Student
 - 💻 passionate about new challenges 
-- 🌐 Mobile development
+- 📱 Android development
   
 <html>
 <picture>
