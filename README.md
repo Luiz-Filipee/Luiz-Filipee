@@ -5,7 +5,7 @@
 
 My name is Luiz Filipe
 
-( Java | Kotlin | Android | Android Developer)
+(Software Engineer | Java | Kotlin | Android | Spring Boot | MVVM | Clean Code | Data Structures)
 
 - 👨‍💻 Software Enginner
 - 🎓 Software Engineering Student
