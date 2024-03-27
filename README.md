@@ -9,11 +9,11 @@ Meu nome é Luiz Filipe M. Kato
 
 (Java | Spring Boot | Kotlin | Hibernate | Android | Javascript | HTML | CSS) 🚀
 
-👩‍💻 Engenheiro de Software 
-🎥 Produtora de conteúdo técnico, crio tutoriais de programação no linkedin e compartilho conteúdo informativo no meu Instagram.
-🎓 Estudante de Engenharia de Software @ UNIGRAN
-🌐 Apaixonado por desenvolvimento web / mobile
-💡 Adoro um bom desafio
+- 👩‍💻 Engenheiro de Software 
+- 🎥 Produtora de conteúdo técnico, crio tutoriais de programação no linkedin e compartilho conteúdo informativo no meu Instagram.
+- 🎓 Estudante de Engenharia de Software @ UNIGRAN
+- 🌐 Apaixonado por desenvolvimento web / mobile
+- 💡 Adoro um bom desafio
 
 <html>
 <picture>
