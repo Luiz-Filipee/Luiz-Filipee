@@ -1,10 +1,8 @@
-### Hi there 👋
+### Seja bem-vindo 👋
 
-### Linkedin
+### Sobre Mim
 
-My name is Luiz Filipe
-
-(Software Engineer | Android | Kotlin | Java | JavaScript | Spring Boot | Hibernate | MVVM | MVC | Clean Code)
+Olá! Eu sou Luiz Filipe, um desenvolvedor apaixonado por tecnologia. Aqui estão algumas informações sobre mim:
 
 - 🎓 Software Engineering Student
 - 💻 passionate about new challenges 
@@ -12,14 +10,12 @@ My name is Luiz Filipe
 
   ## Linguagens de Programação Dominadas
 
-- JavaScript ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-- Python ![Python](https://img.shields.io/badge/-Python-blue)
-- HTML ![HTML](https://img.shields.io/badge/-HTML-orange)
-- CSS ![CSS](https://img.shields.io/badge/-CSS-blueviolet)
+- ![Android](https://img.shields.io/badge/-Android-green)
+- ![Java](https://img.shields.io/badge/-Java-red)
+- ![Kotlin](https://img.shields.io/badge/-Kotlin-purple)
+- ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
 
 ## Contato
-
-Você pode me encontrar no [LinkedIn](https://www.linkedin.com/in/seu-perfil-linkedin/).
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/seu-perfil-linkedin/)](https://www.linkedin.com/in/seu-perfil-linkedin/)
   
