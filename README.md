@@ -17,7 +17,9 @@ Olá! Eu sou Luiz Filipe, um desenvolvedor apaixonado por tecnologia. Aqui estã
 
 ## Contato
 
-![LinkedIn](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin&logoColor=white&link=https:[//www.linkedin.com/in/luizfilipemkato/](https://www.linkedin.com/in/luizfilipemkato)/)
+Você pode me encontrar no [LinkedIn](https://www.linkedin.com/in/luizfilipemkato/).
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/luizfilipemkato/)](https://www.linkedin.com/in/luizfilipemkato/)
   
 <html>
 <picture>
