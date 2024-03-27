@@ -4,9 +4,9 @@
 
 Olá! Eu sou Luiz Filipe, um desenvolvedor apaixonado por tecnologia. Aqui estão algumas informações sobre mim:
 
-- 🎓 Software Engineering Student
-- 💻 passionate about new challenges 
-- 📱 Android development
+- 🎓 Engenheiro de Softawre.
+- 💻 Sedento por novos desafios.
+- 📱 Desenvolvedor Back-end / Mobile.
 
   ## Linguagens de Programação Dominadas
 
@@ -17,8 +17,7 @@ Olá! Eu sou Luiz Filipe, um desenvolvedor apaixonado por tecnologia. Aqui estã
 
 ## Contato
 
-![LinkedIn](https://www.linkedin.com/in/luizfilipemkato/)
-![Instagram](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=linkedin&logoColor=white&link=https:[//www.linkedin.com/in/seu-perfil-linkedin/](https://www.linkedin.com/in/seu-perfil-linkedin)/)
+![LinkedIn](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=linkedin&logoColor=white&link=https:[//www.linkedin.com/in/luizfilipemkato/](https://www.linkedin.com/in/seu-perfil-linkedin)/)
   
 <html>
 <picture>
