@@ -1,7 +1,5 @@
 ### Seja bem-vindo 👋
 
-### Sobre Mim
-
 Olá! Eu sou Luiz Filipe, um desenvolvedor apaixonado por tecnologia. Aqui estão algumas informações sobre mim:
 
 - 🎓 Engenheiro de Softawre.
