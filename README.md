@@ -1,23 +1,17 @@
-### Seja bem-vindo 👋
+### Olá 👋
 
-Olá! Eu sou Luiz Filipe, um desenvolvedor apaixonado por tecnologia. Aqui estão algumas informações sobre mim:
+ [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link)](https://www.linkedin.com/in/luizfilipemkato/)
+[![Intagram](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=instagram&logoColor=white&link)](https://www.instagram.com/luizfilipedev_/)
 
-- 🎓 Engenheiro de Softawre.
-- 💻 Sedento por novos desafios.
-- 📱 Desenvolvedor Back-end / Mobile.
+Meu nome é Luiz Filipe M. Kato
 
-  ## Linguagens de Programação Dominadas
+(Java | Spring Boot | Kotlin | Hibernate | Android | Javascript | HTML | CSS) 🚀
 
-- ![Android](https://img.shields.io/badge/-Android-green)    
-- ![Java](https://img.shields.io/badge/-Java-red)
-- ![Kotlin](https://img.shields.io/badge/-Kotlin-purple)
-- ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-
-## Contato
-
-- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link)](https://www.linkedin.com/in/luizfilipemkato/)
-
-- [![Intagram](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=instagram&logoColor=white&link)](https://www.instagram.com/luizfilipedev_/)
+👩‍💻 Engenheiro de Software 
+🎥 Produtora de conteúdo técnico, crio tutoriais de programação no linkedin e compartilho conteúdo informativo no meu Instagram.
+🎓 Estudante de Engenharia de Software @ UNIGRAN
+🌐 Apaixonado por desenvolvimento web / mobile
+💡 Adoro um bom desafio
 
 <html>
 <picture>
