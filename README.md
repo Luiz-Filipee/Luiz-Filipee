@@ -8,7 +8,7 @@ Olá! Eu sou Luiz Filipe, um desenvolvedor apaixonado por tecnologia. Aqui estã
 
   ## Linguagens de Programação Dominadas
 
-- ![Android](https://img.shields.io/badge/-Android-green)    - dasdasd
+- ![Android](https://img.shields.io/badge/-Android-green)    
 - ![Java](https://img.shields.io/badge/-Java-red)
 - ![Kotlin](https://img.shields.io/badge/-Kotlin-purple)
 - ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
