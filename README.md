@@ -4,7 +4,7 @@
 
 My name is Luiz Filipe
 
-(Software Engineer | Android| Kotlin | Java  | Spring Boot | MVVM | Clean Code | Scrum | APi Rest)
+(Software Engineer | Android | Kotlin | Java | JavaScript | Spring Boot | Hibernate | MVVM | MVC | Clean Code)
 
 - 🎓 Software Engineering Student
 - 💻 passionate about new challenges 
