@@ -15,6 +15,8 @@ Meu nome é Luiz Filipe M. Kato
 - 🌐 Apaixonado por desenvolvimento web / mobile
 - 💡 Adoro um bom desafio
 
+  [![Most used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Luiz-Filipee&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 <html>
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAGE">
