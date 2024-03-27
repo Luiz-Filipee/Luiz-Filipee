@@ -19,7 +19,9 @@ Olá! Eu sou Luiz Filipe, um desenvolvedor apaixonado por tecnologia. Aqui estã
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link)](https://www.linkedin.com/in/luizfilipemkato/)
 
-[![Intagram](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=linkedin&logoColor=white&link)](https://www.instagram.com/luizfilipe_dev/)
+[![Intagram](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=linkedin&logoColor=white&link)](https://www.instagram.com/luizfilipedev_/)
+
+[![Gmail](https://img.shields.io/badge/-Gmail-white?style=flat-square&logo=linkedin&logoColor=white&link)](https://www.gmail.com/luizkato8/)
 
 <html>
 <picture>
