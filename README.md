@@ -7,7 +7,7 @@
 
 Meu nome é Luiz Filipe M. Kato
 
-(Java | Kotlin | Android | Javascript | Spring Boot | JPA | Hibernate | PostgreSQL) 🚀
+( Java | Kotlin | Android | Javascript | Spring Boot | JPA | Hibernate | PostgreSQL ) 🚀
 
 - 👩‍💻 Engenheiro de Software 
 - 🎥 Produtor de conteúdo , crio posts educacionais sobre programação no linkedin e compartilho conteúdo informativo no meu Instagram.
