@@ -7,12 +7,12 @@
 
 Meu nome é Luiz Filipe M. Kato
 
-(Java | Spring Boot | Kotlin | Hibernate | Android | Javascript | HTML | CSS) 🚀
+(Java | Kotlin | Android | Javascript | Spring Boot | JPA | Hibernate | PostgreSQL) 🚀
 
 - 👩‍💻 Engenheiro de Software 
 - 🎥 Produtor de conteúdo , crio posts educacionais sobre programação no linkedin e compartilho conteúdo informativo no meu Instagram.
 - 🎓 Estudante de Engenharia de Software @ UNIGRAN
-- 🌐 Apaixonado por desenvolvimento web / mobile
+- 🌐 Apaixonado por desenvolvimento Back-end / Mobile
 - 💡 Adoro um bom desafio
 
   [![Most used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Luiz-Filipee&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
