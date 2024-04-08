@@ -12,7 +12,7 @@ Meu nome é Luiz Filipe M. Kato
 - 👩‍💻 Engenheiro de Software 
 - 🎥 Produtor de conteúdo , crio posts educacionais sobre programação no linkedin e compartilho conteúdo informativo no meu Instagram.
 - 🎓 Estudante de Engenharia de Software @ UNIGRAN
-- 🌐 Apaixonado por desenvolvimento Back-end / Mobile
+- 🌐 Apaixonado por desenvolvimento Back-end / Mobile (um poquinho web) 
 - 💡 Adoro um bom desafio
 
   [![Most used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Luiz-Filipee&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
