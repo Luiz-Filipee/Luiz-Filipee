@@ -21,7 +21,7 @@ Meu nome é Luiz Filipe M. Kato
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="25" alt="java logo" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="25" alt="javaScript logo" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="25" alt="html logo" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css/css-original.svg" height="25" alt="css logo" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css/css3-original.svg" height="25" alt="css logo" />
   </div>
 
   [![Most used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Luiz-Filipee&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
