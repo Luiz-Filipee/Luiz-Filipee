@@ -27,6 +27,8 @@ Meu nome é Luiz Filipe M. Kato
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="25" alt="java logo" />
     <img width="8" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="25" alt="javaScript logo" />
+    <img width="8" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="25" alt="postgresql logo" />
   </div>
 
   [![Most used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Luiz-Filipee&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
