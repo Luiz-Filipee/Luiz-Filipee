@@ -16,7 +16,12 @@ Meu nome é Luiz Filipe M. Kato
 - 💡 Adoro um bom desafio
 
   <div align="left">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" heigth="25" alt="html logo" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="25" alt="html logo" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="25" alt="html logo" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="25" alt="html logo" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="25" alt="html logo" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="25" alt="html logo" />
+
   </div>
 
   [![Most used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Luiz-Filipee&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
