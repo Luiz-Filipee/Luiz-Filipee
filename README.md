@@ -6,7 +6,7 @@
 - 🎥 Produtor de conteúdo , crio posts educacionais sobre programação no linkedin e compartilho conteúdo informativo no meu Instagram.
 - 🎓 Estudante de Engenharia de Software @UNIGRAN
 - 🌐 Apaixonado por desenvolvimento web e mobile 
-- 💡 Adoro um bom desafio
+- 💡 Sedetnso por novos desafio
 
   <h3 align="left">Connect with me!</h3>
 
