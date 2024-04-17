@@ -31,7 +31,16 @@ Meu nome é Luiz Filipe M. Kato
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="25" alt="postgresql logo" />
   </div>
 
+  <h3>GitHub Stats</h3>
+
+  ![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?
+  username=Luiz-Filipee&hide title=true&show icons=true&include all commits=false&count private=true&line height=25&hide=issues&bg color=008&title color=FF00F6&text color =FFF&border
+  radius=3&border color=36123c&icon color=FF00F6&theme=jolly)
+  https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?
+  username=Luiz-Filipee&hide title=true&show icons=true&include all commits=false&count private=true&line height=25&hide=issues&bg color=008&title color=FF00F6&text color =FFF&border
+  radius=3&border color=36123c&icon color=FF00F6&theme=jolly
   [![Most used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Luiz-Filipee&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  <br>
 
 <html>
 <picture>
