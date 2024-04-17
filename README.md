@@ -4,7 +4,7 @@
 
 - 👩‍💻 Engenheiro de Software 
 - 🎥 Produtor de conteúdo , crio posts educacionais sobre programação no linkedin e compartilho conteúdo informativo no meu Instagram.
-- 🎓 Estudante de Engenharia de Software @ UNIGRAN
+- 🎓 Estudante de Engenharia de Software @UNIGRAN
 - 🌐 Apaixonado por desenvolvimento web e mobile 
 - 💡 Adoro um bom desafio
 
