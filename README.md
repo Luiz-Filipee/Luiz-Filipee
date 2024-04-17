@@ -1,13 +1,8 @@
-### Olá 👋
+<img align="right" alt="" height="300px" src="./me.png">
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-purple?style=flat-square&logo=linkedin&logoColor=white&link)](https://www.linkedin.com/in/luizfilipemkato/)
-[![Intagram](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=instagram&logoColor=white&link)](https://www.instagram.com/luizfilipedev_/)
-[![Intagram](https://img.shields.io/badge/-Gmail-purple?style=flat-square&logo=gmail&logoColor=white&link)](mailtoluizkato7@gmail.com)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=BB00B4&random=false&width=435&height=40&lines=Ol%C3%A1%2C+eu+sou+a+Maria+Eduarda!+%F0%9F%91%BE%F0%9F%93%9A%F0%9F%92%99)](https://git.io/typing-svg)
 
 
-Meu nome é Luiz Filipe M. Kato
-
-( Java | Kotlin | Android | Javascript | Spring Boot | JPA | Hibernate | PostgreSQL ) 🚀
 
 - 👩‍💻 Engenheiro de Software 
 - 🎥 Produtor de conteúdo , crio posts educacionais sobre programação no linkedin e compartilho conteúdo informativo no meu Instagram.
