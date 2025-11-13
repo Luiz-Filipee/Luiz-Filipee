@@ -5,7 +5,7 @@
 - 👩‍💻 Engenheiro de Software 
 - 🎥 Produtor de conteúdo , crio posts educacionais sobre programação no linkedin e compartilho conteúdo informativo no meu Instagram.
 - 🎓 Estudante de Engenharia de Software @ UNIGRAN
-- 🌐 Desenvolvimento Web / Mobile
+- 🌐 Desenvolvimento Web / Mobile / Desktop
 - 💡 Sedento por novos desafio
 
 <h3 align="left">Connect with me!</h3>
@@ -34,7 +34,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" height="25" alt="angular logo"  />
   <img width="8" />
   <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c#/c#-original.svg" height="25" alt="c# logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="25" alt="csharp logo" />
   <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="25" alt="postgresql logo"  />
   <img width="8" />
