@@ -2,10 +2,9 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=BB00B4&random=false&width=435&height=40&lines=Ol%C3%A1%2C+eu+sou+o+Luiz+Filipe!+%F0%9F%91%BE%F0%9F%93%9A%F0%9F%92%99)](https://git.io/typing-svg)
 
-- 👩‍💻 Engenheiro de Software 
+- 👩‍💻 Engenheiro de Software @ UNIGRAN
 - 🎥 Produtor de conteúdo , crio posts educacionais sobre programação no linkedin e compartilho conteúdo informativo no meu Instagram.
-- 🎓 Estudante de Engenharia de Software @ UNIGRAN
-- 🌐 Desenvolvimento Web / Mobile / Desktop
+- 🌐 Desenvolvedor FullStack
 - 💡 Sedento por novos desafio
 
 <h3 align="left">Connect with me!</h3>
